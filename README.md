@@ -6,5 +6,6 @@ And when they annouced the discontinuation of their services, i was left heartbr
 
 *  There's only one thing that I can do now, export/scrape the data myself. But i am way too lazy to do it manually. So, it's time to automate some stuff !!
 
+For now my plan is to learn and use OCR using a combination of Python 3.6, OpenCV and tesseract.
 
 Viewable Colaboratory link: https://colab.research.google.com/drive/1gHSKWk5535VWh3EknILSLFSJF5IPcqIY
