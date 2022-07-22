@@ -17,3 +17,12 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+# Sample Output
+### 0001.png (Good result)
+![0001.png](https://i.imgur.com/AGxRjlL.png)
+![0001.txt](https://i.imgur.com/MSLov1q.png)
+
+### 0006.png (Garbage result)
+![0006.png](https://i.imgur.com/dCLHILe.png)
+![0006.txt](https://i.imgur.com/JFm6RD3.png)
